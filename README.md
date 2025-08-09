@@ -49,7 +49,7 @@ This project demonstrates how to design and implement a comprehensive cloud secu
 
 <h2>Documentation Link:</h2>
 
-(https://brief-foam-edd.notion.site/Build-a-Cyber-Home-Lab-from-Scratch-and-Hunt-Hackers-with-Microsoft-Sentinel-2025-Guide-1e58ff75bed380c69ac5f1b1a4638657?source=copy_link)
+(https://brief-foam-edd.notion.site/Setting-Up-a-Full-Monitoring-Flow-with-Azure-DCR-Log-Analytics-Dashboards-Queries-Trends-for-Cl-1da8ff75bed3800bbcd9ced25d6d37f8?source=copy_link)
 
 
 <!--
